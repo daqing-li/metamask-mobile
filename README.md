@@ -220,4 +220,4 @@ To get a better understanding of the internal architecture of this app take a lo
 We have begun documenting our components using storybook please read the [Documentation Guidelines](./storybook/DOCUMENTATION_GUIDELINES.md) to get up and running.
 
 ### TODO
-- sonar cloud
+- 1
